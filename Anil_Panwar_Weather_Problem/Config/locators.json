@@ -1,0 +1,12 @@
+{
+  "No_Thanks": "notnow",
+  "Sub_Menu": "h_sub_menu",
+  "Weather_link": "//*[@id='subnav']/div/div/div/div/div/a[8]",
+  "Wait_for_map": "input[type='checkbox']",
+  "checkboxes_for_unselect": "input[type='checkbox']",
+  "Search_textBox": "searchBox",
+  "weather_info": ".//span[@class = 'heading']"
+
+
+
+}

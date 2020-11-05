@@ -1,0 +1,8 @@
+{
+  "URL":"https://www.ndtv.com",
+  "City": "New Delhi",
+  "wait": 20,
+  "Temp_Min": 100.1,
+  "Temp_Max": 30.23,
+  "API":"http://api.openweathermap.org/data/2.5/weather?q=Dehra%20Dun&appid=7fe67bf08c80ded756e598d6f8fedaea"
+}
